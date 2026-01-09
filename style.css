@@ -70,7 +70,7 @@
 
 .hero {
   position: relative;
-  background: url("assets/hero-bg.png") center/cover no-repeat;
+  background: url(assets/hero-bg.png)  ;
   color: #fff;
   text-align: center;
   padding: 140px 20px;
